@@ -18,5 +18,6 @@ Since its launch in 2016, Cyclistic has scaled rapidly, building a robust infras
 
 # Phase 1 – Ask
 
-
+## Business Task -
+This project focuses on analyzing user behavior and ride patterns to improve annual membership by developing digital targeted marketing strategies using data-driven insights.
 

@@ -29,6 +29,11 @@
 
 •	Ridership peaks in the summer, with members reaching their highest activity in September 2021(385,779 rides), while casual riders peak earlier in July 2021(435,779 rides). This trend highlights how casual riders are more sensitive to seasonal and recreational factors, whereas members maintain slightly more consistent usage driven by routine needs.
 
+- Rideable Types
+•	Cyclistic offers three bike types: classic, electric, and docked bikes.
+Both members and casual riders show a clear preference for classic bikes over electric options.
+<img width="366" height="858" alt="Rideable Type" src="https://github.com/user-attachments/assets/59ee5981-f348-4bbc-8837-aa1b49a53a32" />
+
 
 
 

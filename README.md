@@ -1,18 +1,13 @@
-# Phase 5 – Share
+# Phase 6 - Act
 
-<img width="1200" height="1200" alt="Riders&#39; Analysis" src="https://github.com/user-attachments/assets/05911bdb-02ae-44e8-b310-db4a1cef538d" />
+# #Recommendations 
 
-## Key Insights
+•	Target high-potential casual riders - Focus on users who ride frequently (e.g., 3+ times per month), have longer ride durations to offer personalized membership discounts or trial upgrades.
 
-From the analysis, several actionable insights emerge:
+•	Introduce “Try before you commit” memberships - Short-term memberships (e.g., 1-month trial), weekend-to-membership conversion offers to reduce friction and builds habit.
 
-•	Behavioral Gap: Casual riders and members use the service for fundamentally different purposes (leisure vs. utility). 
+•	Weekend-focused marketing campaigns - Push notifications and promotions during peak casual usage times, highlight cost savings of membership vs. multiple single rides 
 
-•	Conversion Opportunity: Casual riders already see value but lack a strong incentive to commit. 
+•	Emphasize value and savings - Show clear cost comparisons: “You’ve spent $X this month—save $Y with a membership.” Makes the decision rational and data-driven for the user.
 
-•	Timing Matters: Marketing efforts should align with weekend and leisure usage patterns. 
-
-•	High-Intent Segment: Frequent casual riders are the most likely candidates for conversion. 
-
-•	Experience vs. Cost Trade-off: Casual users may perceive memberships as unnecessary for occasional use. 
-
+•	Leverage Location-Based Promotions - Target tourist and park-heavy stations, Offer discounts at high casual-traffic locations 

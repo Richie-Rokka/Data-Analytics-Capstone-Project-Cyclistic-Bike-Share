@@ -1,8 +1,8 @@
 # Phase 3 – Process
 
-The 12 tables from January 2021 to December 2021 were stacked and combined into a single table. The table consists of 5,595,075 rows.
+The 12 CSV files from divvy- trip data (January 2021 to December 2021) were stacked and combined into a single DataFrame. The table consists of 5,595,075 rows.
 
-Before analysis, the dataset was cleaned and transformed to ensure accuracy, consistency, and usability. Given that the data was collected across multiple files, the first step involved consolidating all datasets into a single, structured dataset for efficient analysis.
+Before analysis, the dataset was cleaned and transformed to ensure accuracy, consistency, and usability. Given that the data was collected across multiple files, and part of the steps involved consolidating all datasets into a single, structured dataset for efficient analysis.
 
 ## Data Cleaning Steps-
 

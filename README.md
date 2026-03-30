@@ -1,6 +1,6 @@
 # Phase 2 – Prepare
 
-## Data Source: ##https://divvy-tripdata.s3.amazonaws.com/index.html
+## Data Source:https://divvy-tripdata.s3.amazonaws.com/index.html
 
 This dataset consists of 12 Months (January 2021 to December 2021) of Cyclistic trip Data from Motivate International Inc under this https://www.divvybikes.com/data-license-agreement It provides comprehensive trip-level insights into Cyclistic’s operations, with variables supporting behavioral and trend analysis. Organized across 12 months and excluding PII, it enables secure, aggregate-level analysis of rider patterns. The data also follows the ROCCC approach –
 

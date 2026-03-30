@@ -1,6 +1,6 @@
 # Phase 1 – Ask
 
-## Business Task: This project focuses on analyzing user behavior and ride patterns to improve annual membership using data-driven insights and targeted marketing.
+## Business Task: This project focuses on analyzing user behavior and ride patterns to improve annual membership using data-driven insights to develop targeted marketing strategies.
 
 ## Stakeholders:
 Director of Marketing - Leads Cyclistic’s marketing strategy, focusing on customer acquisition, membership conversion, and maximizing marketing ROI.

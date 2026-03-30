@@ -1,15 +1,41 @@
-# Phase 2 – Prepare
+# Phase 3 – Process
 
-## Data Source:https://divvy-tripdata.s3.amazonaws.com/index.html
+The 12 tables from January 2021 to December 2021 were stacked and combined into a single table. The table consists of 5,595,075 rows.
 
-This dataset consists of 12 Months (January 2021 to December 2021) of Cyclistic trip Data from Motivate International Inc under this https://www.divvybikes.com/data-license-agreement It provides comprehensive trip-level insights into Cyclistic’s operations, with variables supporting behavioral and trend analysis. Organized across 12 months and excluding PII, it enables secure, aggregate-level analysis of rider patterns. The data also follows the ROCCC approach –
+Before analysis, the dataset was cleaned and transformed to ensure accuracy, consistency, and usability. Given that the data was collected across multiple files, the first step involved consolidating all datasets into a single, structured dataset for efficient analysis.
 
-Reliable - The dataset is generated from Cyclistic’s internal systems, ensuring a high level of accuracy, consistency, and operational reliability.
+## Data Cleaning Steps-
 
-Original - This is first-party data provided by Motivate International Inc. under the Divvy Bikes licensing framework, ensuring authenticity.
+•	Data Consolidation - Merged the 12 monthly datasets into one unified table to enable a full year trend analysis while I removed the columns for latitude and longitude.
 
-Comprehensive - The dataset includes all critical variables needed for analysis, such as time, location, bike type, and user segmentation, allowing for a well-rounded behavioral analysis.
+•	Handling Missing Values - Identified and replaced records with null or incomplete fields (missing station names) with “unknown station name” to maintain data quality. 
 
-Current - It captures recent 12-month period, making it suitable for identifying current trends and usage patterns.
+•	Removing Duplicates - Checked for and eliminated duplicate ride entries to ensure data integrity. 
 
-Cited - The data is publicly available and properly documented, ensuring transparency and credibility for analysis and reporting under the https://www.divvybikes.com/data-license-agreement
+•	Standardizing Data Formats - Converted date and time fields into a consistent format and ensured uniform naming conventions across all variables. 
+
+•	Filtering Invalid Records - Removed rides with negative or zero ride durations, less than one minute, or extended beyond twenty-four hours.
+
+## Feature Engineering
+
+To support deeper analysis, additional variables were created:
+
+•	Ride Length - Calculated as the difference between end time and start time 
+
+•	Day of Week - Extracted to analyze weekly usage patterns 
+
+•	Month - Derived to identify seasonal trends 
+
+•	Start of ride hour – Derived to identify rush hour rides
+
+These new features enabled more meaningful insights into customer behavior and ride patterns.
+
+## Tools used
+
+•	Excel 
+
+•	Python (Pandas, Jupyter) 
+
+•	Tableau 
+
+The final dataset consists of 5,504,784 rows after cleaning, which means that 90, 291 rows were removed.

@@ -9,8 +9,10 @@ Urban mobility is undergoing a major transformation, with bike-share programs em
 Since its launch in 2016, Cyclistic has scaled rapidly, building a robust infrastructure of bikes and strategically located docking stations. However, as competition and operational costs increase, long-term profitability depends not just on ridership volume but on customer retention and recurring revenue. This case study explores how data-driven insights can help Cyclistic transition casual riders into loyal annual members—unlocking sustainable growth and strengthening its market position.
 
 ## Approach
--• Cleaned and transformed trip data
+• Cleaned and transformed trip data
 
--•	Conducted exploratory data analysis 
+•	Conducted exploratory data analysis 
 
--•	Identified behavioral differences
+•	Identified behavioral differences
+
+

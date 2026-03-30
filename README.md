@@ -18,8 +18,17 @@
 - Daily Ride Trends
 <img width="1500" height="1200" alt="Daily Stats" src="https://github.com/user-attachments/assets/2df0f24a-97d3-48cb-9492-78d2f32a63b0" />
 
-• Members ride significantly more often (daily or weekly patterns), peak usage during weekday mornings and evenings (Wednesdays with highest ridership of 469, 431)
+• Members ride significantly more often (daily or weekly patterns), peak usage during weekday mornings and evenings (Wednesdays recorded highest number of 469,431 rides, and mean ride length of 15.53 mins on Sundays)
 
-• Casual riders show sporadic usage, often tied to weekends or special occasions, Peak usage during weekends (Saturdays with the highest 549,630 rides)
+• Casual riders show sporadic usage, often tied to weekends or special occasions, Peak usage during weekends (Saturdays had the highest number of 549,630 rides, and mean ride length of 35.19 minutes also on Sundays)
+
+- Monthly Ride Trends
+<img width="1500" height="1200" alt="Monthly Stats" src="https://github.com/user-attachments/assets/64c892c1-552f-4173-b919-50b7cb32a3ff" />
+
+•	Cyclistic usage shows strong seasonal patterns across both user groups. In February 2021, activity was at its lowest, with members recording 38,522 rides and casual riders 9,901 rides.
+
+•	Ridership peaks in the summer, with members reaching their highest activity in September 2021(385,779 rides), while casual riders peak earlier in July 2021(435,779 rides). This trend highlights how casual riders are more sensitive to seasonal and recreational factors, whereas members maintain slightly more consistent usage driven by routine needs.
+
+
 
 

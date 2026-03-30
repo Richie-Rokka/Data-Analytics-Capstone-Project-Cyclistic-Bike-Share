@@ -1,13 +1,17 @@
-# Phase 6 - Act
+# Future Analysis: Targeting High-Potential Casual Riders
 
-## Recommendations 
+To effectively convert high-potential casual riders into annual members, the next phase of analysis should focus on deeper segmentation, predictive modeling, and campaign optimization.
 
-•	Target high-potential casual riders - Focus on users who ride frequently (e.g., 3+ times per month), have longer ride durations to offer personalized membership discounts or trial upgrades.
+## Advanced Customer Segmentation –
 
-•	Introduce “Try before you commit” memberships - Short-term memberships (e.g., 1-month trial), weekend-to-membership conversion offers to reduce friction and builds habit.
+•	Segment casual riders based on: Ride frequency (e.g., 3–5 rides/month vs. 6+ rides/month), average ride duration, and time of usage (weekend vs weekday) 
+•	Identify a “conversion-ready segment”—users who already behave similarly to members. 
 
-•	Weekend-focused marketing campaigns - Push notifications and promotions during peak casual usage times, highlight cost savings of membership vs. multiple single rides 
+## Predictive Conversion Modeling - 
 
-•	Emphasize value and savings - Show clear cost comparisons: “You’ve spent $X this month—save $Y with a membership.” Makes the decision rational and data-driven for the user.
+- Build a model to estimate the likelihood of a casual rider becoming a member using: Ride frequency, ride duration, recency of activity, and station usage patterns.
 
-•	Leverage Location-Based Promotions - Target tourist and park-heavy stations, Offer discounts at high casual-traffic locations 
+## Testing of Marketing Campaigns - 
+
+- Test different strategies on high-potential users: Discounted memberships, free trial offers, personalized usage insights (“You rode 5 times this month…”) 
+

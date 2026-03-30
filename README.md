@@ -1,6 +1,6 @@
 # Phase 6 - Act
 
-# #Recommendations 
+## Recommendations 
 
 •	Target high-potential casual riders - Focus on users who ride frequently (e.g., 3+ times per month), have longer ride durations to offer personalized membership discounts or trial upgrades.
 

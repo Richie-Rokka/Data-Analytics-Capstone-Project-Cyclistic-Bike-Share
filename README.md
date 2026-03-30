@@ -4,9 +4,9 @@ To effectively convert high-potential casual riders into annual members, the nex
 
  Advanced Customer Segmentation –
 
-•	Segment casual riders based on: Ride frequency (e.g., 3–5 rides/month vs. 6+ rides/month), average ride duration, and time of usage (weekend vs weekday) 
+- Segment casual riders based on: Ride frequency (e.g., 3–5 rides/month vs. 6+ rides/month), average ride duration, and time of usage (weekend vs weekday) 
 
-•	Identify a “conversion-ready segment”—users who already behave similarly to members. 
+- Identify a “conversion-ready segment”—users who already behave similarly to members. 
 
  Predictive Conversion Modeling - 
 

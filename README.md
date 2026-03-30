@@ -16,3 +16,7 @@ Since its launch in 2016, Cyclistic has scaled rapidly, building a robust infras
 •	Identified behavioral differences
 
 
+# Phase 1 – Ask
+
+
+

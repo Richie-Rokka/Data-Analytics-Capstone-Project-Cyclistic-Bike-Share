@@ -123,7 +123,7 @@ The final dataset made available for the analysis consists of 5,504,784 rows aft
 
 ## Key Insights
 
-- From the analysis, several actionable insights emerge:
+From the analysis, several actionable insights emerge:
 
 •	Behavioral Gap: Casual riders and members use the service for fundamentally different purposes (leisure vs. utility). 
 

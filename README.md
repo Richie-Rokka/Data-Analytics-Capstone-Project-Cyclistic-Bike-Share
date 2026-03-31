@@ -50,7 +50,7 @@ The 12 CSV files from divvy-trip data (January 2021 to December 2021) were stack
 
 Before analysis, the dataset was cleaned and transformed to ensure accuracy, consistency, and usability. Given that the data was collected across multiple files, part of the steps involved consolidating all datasets into a single, structured dataset for efficient analysis.
 
-## Data Cleaning Steps-
+Data Cleaning Steps-
 
 •	Data Consolidation - Merged the 12 monthly datasets into one unified table to enable a full year trend analysis while I removed the columns for latitude and longitude.
 
@@ -62,7 +62,7 @@ Before analysis, the dataset was cleaned and transformed to ensure accuracy, con
 
 •	Filtering Invalid Records - Removed rides with negative or zero ride durations, less than one minute, or extended beyond twenty-four hours.
 
-## Feature Engineering
+Feature Engineering-
 
 To support deeper analysis, additional variables were created:
 

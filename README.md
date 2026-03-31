@@ -48,7 +48,7 @@ Cited - The data is publicly available and properly documented, ensuring transpa
 
 # Phase 3 – Process
 
-The 12 CSV files from January 2021 to December 2021 were stacked and combined into a single dataset. The DataFrame consists of 5,595,075 rows after the data aggregation.
+The 12 CSV files from divvy-trip data (January 2021 to December 2021) were stacked and combined into a single dataset. The DataFrame consists of 5,595,075 rows after the data consolidation.
 
 Before analysis, the dataset was cleaned and transformed to ensure accuracy, consistency, and usability. Given that the data was collected across multiple files, part of the steps involved consolidating all datasets into a single, structured dataset for efficient analysis.
 
@@ -78,5 +78,5 @@ To support deeper analysis, additional variables were created:
 
 These new features enabled more meaningful insights into customer behavior and ride patterns.
 
-The final dataset consists of 5,504,784 rows after cleaning, 90,291 rows were removed during the cleaning process.
+The final dataset made available for the analysis consists of 5,504,784 rows after cleaning, validation, and 90,291 rows were removed during the cleaning process.
 

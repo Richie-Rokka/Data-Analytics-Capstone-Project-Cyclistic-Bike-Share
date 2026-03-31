@@ -19,12 +19,10 @@ The key question:
 - Generate **actionable insights**
 - Recommend **data-driven marketing strategies**
 
-##  <img width="527" height="300" alt="Stake" src="https://github.com/user-attachments/assets/ee8c6661-e9e7-421a-b2a0-8b5baaa264c4" />
-Stakeholders
+##    Stakeholders
 - Director of Marketing - Leads Cyclistic’s marketing strategy, focusing on customer acquisition, membership conversion, and maximizing marketing ROI.
 - Marketing Analytics Team - Collects and analyzes ride data to generate actionable insights that support targeted marketing and customer segmentation.
 - Executive Team - Approves data-driven strategic initiatives that drive long-term growth, customer retention, and revenue sustainability.
-
 
 ---
 
@@ -56,5 +54,19 @@ This project follows the **Google Data Analytics framework**:
   - Day of week  
   - Month  
   - Start ride hour
+
+
+---
+
+## 📊 Key Insights (Quick View)
+
+- Casual riders → **longer rides** (29.96 mins vs 13.57 mins)  
+- Members → **commute-focused** (peak at 8 AM & 5 PM)  
+- Casual riders → **weekend & leisure usage**  
+- Members → **weekday, routine usage**  
+- Strong **seasonal trends** (summer peaks, winter lows)
+
+
+---
 
 

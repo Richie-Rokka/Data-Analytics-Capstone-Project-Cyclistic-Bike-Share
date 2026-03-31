@@ -19,7 +19,7 @@ The key question:
 - Generate **actionable insights**
 - Recommend **data-driven marketing strategies**
 
-##    Stakeholders
+###    Stakeholders
 - Director of Marketing - Leads Cyclistic’s marketing strategy, focusing on customer acquisition, membership conversion, and maximizing marketing ROI.
 - Marketing Analytics Team - Collects and analyzes ride data to generate actionable insights that support targeted marketing and customer segmentation.
 - Executive Team - Approves data-driven strategic initiatives that drive long-term growth, customer retention, and revenue sustainability.
@@ -72,7 +72,7 @@ This project follows the **Google Data Analytics framework**:
 
 ---
 
-- Total Rides & Average Ride Length Patterns in  year 2021
+Total Rides & Average Ride Length Patterns in  year 2021
 
 <img width="1500" height="1200" alt="Total Ride Stats" src="https://github.com/user-attachments/assets/c0453833-8c1b-4684-894e-13871f36fb52" />
 
@@ -93,7 +93,7 @@ Casual riders take significantly longer rides, indicating **leisure and explorat
 
 
 ---
-- Hourly Ride Trends
+Hourly Ride Trends
 
 <img width="708" height="319" alt="Hourly Stats" src="https://github.com/user-attachments/assets/bb5a014e-d78a-4522-a6c6-9d1e213b90b5" />
 

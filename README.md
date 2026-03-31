@@ -32,7 +32,7 @@ Executive Team - Approves data-driven strategic initiatives that drive long-term
 
 <a href="https://divvy-tripdata.s3.amazonaws.com/index.html">Data Source - Cyclistic Dataset</a>
 
-This dataset consists of 12 Months (January 2021 to December 2021) of Cyclistic trip Data from Motivate International Inc under this <a href="https://www.divvybikes.com/data-license-agreement">License-Agreement</a> It provides comprehensive trip-level insights into Cyclistic’s operations, with variables supporting behavioral and trend analysis. Organized across 12 months and excluding PII, it enables secure, aggregate-level analysis of rider patterns. The data also follows the ROCCC approach –
+This dataset used consists of 12 Months (January 2021 to December 2021) of  divvy-tripdata from Motivate International Inc under this <a href="https://www.divvybikes.com/data-license-agreement">License-Agreement</a> It provides comprehensive trip-level insights into Cyclistic’s operations, with variables supporting behavioral and trend analysis. Organized across a year generated data and excluding PII, it enables secure, aggregate-level analysis of rider patterns. The data also follows the ROCCC approach –
 
 
 Reliable - The dataset includes complete and accurate ride data from divvy-tripdata used by Cyclistic’s internal systems, ensuring a high level of accuracy, consistency, and operational reliability.

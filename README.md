@@ -133,5 +133,5 @@ From the analysis, several actionable insights emerge:
 
 •	High-Intent Segment: Frequent casual riders are the most likely candidates for conversion. 
 
-•	Experience vs. Cost Trade-off: Casual users may perceive memberships as unnecessary for occasional us
+•	Experience vs. Cost Trade-off: Casual users may perceive memberships as unnecessary for occasional us.
 

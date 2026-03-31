@@ -158,3 +158,35 @@ Understanding the difference between **leisure and commuter behavior** allows Cy
 
 ## 📊 Dashboard
 👉 <a href="https://prod-ca-a.online.tableau.com/t/kabiodun1112-207c4a9748/authoring/ROKKA/Dashboard1#1">Tableau</a>
+
+---
+
+## 🔮 Future Work
+
+- Customer **segmentation modeling**  
+- Predictive analysis for **conversion likelihood**  
+- **A/B testing** marketing campaigns  
+- Pricing optimization  
+
+---
+
+## ⚠️ Challenges
+
+- Handling large datasets across multiple files  
+- Cleaning inconsistent and missing data  
+- Ensuring accurate ride duration calculations  
+
+---
+
+## 📎 Project Structure
+data/
+├── raw/
+├── processed/
+notebooks/
+images/
+README.md
+
+---
+
+## 👤 Author
+**Abodunrin Oketade**

@@ -89,7 +89,7 @@ The final dataset made available for the analysis consists of 5,504,784 rows aft
 
 <img width="1500" height="1200" alt="Total Ride Stats" src="https://github.com/user-attachments/assets/c0453833-8c1b-4684-894e-13871f36fb52" />
 
-• Casual riders tend to have longer ride durations, often using bikes for leisure and exploration
+• Casual riders tend to have significantly longer ride durations, averaging 29.96 minutes compared to 13.57 minutes for members, indicating a stronger preference for leisure and exploratory use rather than routine commuting.
 
 • Annual members typically take shorter, more frequent trips, indicating routine usage such as commuting. The annual members accounted for 55% of the total ride.
 
@@ -97,24 +97,23 @@ The final dataset made available for the analysis consists of 5,504,784 rows aft
 
 <img width="708" height="319" alt="Hourly Stats" src="https://github.com/user-attachments/assets/bb5a014e-d78a-4522-a6c6-9d1e213b90b5" />
 
-•	casual riders -activity shows a steady hourly increase till 5PM
+•	Casual riders show a steady increase in activity throughout the day, peaking in the late afternoon around 5 PM, reflecting flexible, leisure-driven usage patterns.
 
-•	Members - Peak usage during weekdays (mornings and evenings around 8AM & 5PM respectively), which depicts commute hours to and fro work.
+- In contrast, members exhibit distinct peak hours at around 8 AM and 5 PM, aligning with typical commute times to and from work, which highlights more structured, routine usage behavior.
 
 - Daily Ride Trends
   
 <img width="1500" height="1200" alt="Daily Stats" src="https://github.com/user-attachments/assets/2df0f24a-97d3-48cb-9492-78d2f32a63b0" />
 
-• Members ride significantly more often (daily or weekly patterns), peak ride hours are during weekday in the mornings and evenings (Wednesdays recorded highest number of 469,431 rides, and mean ride length of 15.53 mins on Sundays)
+- Members demonstrate consistent and frequent usage patterns, typically riding on a daily or weekly basis, with peak activity during weekday mornings and evenings—clear indicators of commuting behavior. Notably, Wednesdays record the highest ride volume (469,431 rides), while average ride duration peaks on Sundays (15.53 minutes), suggesting occasional leisure use alongside routine trips.
 
-• Casual riders show sporadic usage, often tied to weekends or special occasions, Peak usage during weekends (Saturdays had the highest number of 549,630 rides, and mean ride length of 35.19 minutes also on Sundays)
-
+- In contrast, casual riders exhibit more irregular and leisure-driven usage, with activity concentrated around weekends and special occasions. Saturdays show the highest ride volume (549,630 rides), and average ride duration is longest on Sundays (35.19 minutes), reinforcing the pattern of extended, recreational rides.
+  
 - Monthly Ride Trends
   
 <img width="1500" height="1200" alt="Monthly Stats" src="https://github.com/user-attachments/assets/64c892c1-552f-4173-b919-50b7cb32a3ff" />
 
-•	Cyclistic usage shows strong seasonal patterns across both user groups. In February 2021, activity was at its lowest, with members and casual riders recording 38,522 and 9,901 number of rides respectively.
+•Cyclistic usage exhibits clear seasonal trends across both user groups, with ridership at its lowest in February 2021, where members recorded 38,522 rides and casual riders 9,901 rides, reflecting reduced demand during winter months.
 
-•	Ridership peaks in the summer, with members reaching their highest activity in September 2021(385,779 rides), while casual riders peak earlier in July 2021(435,779 rides). This trend highlights how casual riders are more sensitive to seasonal and recreational factors, whereas members maintain slightly more consistent usage driven by routine needs.
-
+- Activity peaks during the summer, with members reaching their highest usage in September 2021 (385,779 rides), while casual riders peak earlier in July 2021 (435,779 rides). This pattern suggests that casual riders are more influenced by seasonal and recreational factors, whereas members maintain relatively consistent, routine-driven usage throughout the year.
 

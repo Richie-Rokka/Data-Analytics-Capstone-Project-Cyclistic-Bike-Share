@@ -157,6 +157,10 @@ Understanding the difference between **leisure and commuter behavior** allows Cy
 ---
 
 ## 📊 Dashboard
+
+<img width="1200" height="1200" alt="Riders&#39; Analysis" src="https://github.com/user-attachments/assets/89331857-7d8a-49c6-adf7-d6d249312fa8" />
+
+
 👉 <a href="https://prod-ca-a.online.tableau.com/t/kabiodun1112-207c4a9748/authoring/ROKKA/Dashboard1#1">Tableau</a>
 
 ---

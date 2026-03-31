@@ -44,6 +44,9 @@ This project follows the **Google Data Analytics framework**:
 - No **personally identifiable information (PII)** included  
 - Enables **aggregate behavioral analysis**
 
+
+---
+
 ## 🧹 Data Cleaning & Preparation
 - Merged 12 monthly datasets into one  
 - Removed missing and duplicate records  
@@ -66,6 +69,29 @@ This project follows the **Google Data Analytics framework**:
 - Members → **weekday, routine usage**  
 - Strong **seasonal trends** (summer peaks, winter lows)
 
+- Total Rides & Average Ride Length Patterns in  year 2021
+
+<img width="1500" height="1200" alt="Total Ride Stats" src="https://github.com/user-attachments/assets/c0453833-8c1b-4684-894e-13871f36fb52" />
+
+
+---
+
+
+## 🔍 Detailed Insights
+
+### ⏱️ Ride Duration
+Casual riders take significantly longer rides, indicating **leisure and exploration**, while members prioritize **short, efficient trips**.
+
+---
+
+### ⏰ Time of Use
+- Members peak at **8 AM and 5 PM** → commuting behavior  
+- Casual riders show a **steady increase throughout the day**, peaking in the afternoon  
+
+
+- Hourly Ride Trends
+
+<img width="708" height="319" alt="Hourly Stats" src="https://github.com/user-attachments/assets/bb5a014e-d78a-4522-a6c6-9d1e213b90b5" />
 
 ---
 

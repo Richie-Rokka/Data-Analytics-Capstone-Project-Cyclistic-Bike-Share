@@ -116,3 +116,43 @@ Casual riders take significantly longer rides, indicating **leisure and explorat
 
 <img width="1500" height="1200" alt="Monthly Stats" src="https://github.com/user-attachments/assets/64c892c1-552f-4173-b919-50b7cb32a3ff" />
 
+
+---
+
+### 🚴 Bike Preference
+Both groups prefer **classic bikes**, while docked bikes are mainly used by casual riders.
+
+---
+
+## 💡 Recommendations
+
+- Target **high-frequency casual riders**  
+- Introduce **trial membership offers**  
+- Focus marketing on **weekends and high-traffic locations**  
+- Highlight **cost savings of membership**  
+- Use **personalized usage insights** to drive conversion  
+
+---
+
+## 📈 Business Impact
+
+- Increased **membership conversion rates**  
+- Improved **customer lifetime value (CLV)**  
+- More **predictable recurring revenue**  
+- Better **marketing ROI through targeted campaigns**  
+
+---
+
+## 🔑 Why This Matters
+Understanding the difference between **leisure and commuter behavior** allows Cyclistic to shift from broad marketing to **precision targeting**, improving both efficiency and profitability.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **SQL** – Data cleaning and transformation  
+- **Excel** – Data analysis  
+- **Tableau** – Data visualization  
+
+---
+

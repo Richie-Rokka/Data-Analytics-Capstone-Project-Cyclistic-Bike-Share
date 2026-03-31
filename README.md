@@ -19,7 +19,8 @@ The key question:
 - Generate **actionable insights**
 - Recommend **data-driven marketing strategies**
 
-## Stakeholders
+##  <img width="527" height="300" alt="Stake" src="https://github.com/user-attachments/assets/ee8c6661-e9e7-421a-b2a0-8b5baaa264c4" />
+Stakeholders
 - Director of Marketing - Leads Cyclistic’s marketing strategy, focusing on customer acquisition, membership conversion, and maximizing marketing ROI.
 - Marketing Analytics Team - Collects and analyzes ride data to generate actionable insights that support targeted marketing and customer segmentation.
 - Executive Team - Approves data-driven strategic initiatives that drive long-term growth, customer retention, and revenue sustainability.

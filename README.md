@@ -117,3 +117,21 @@ The final dataset made available for the analysis consists of 5,504,784 rows aft
 
 • Activity peaks during the summer, with members reaching their highest usage in September 2021 (385,779 rides), while casual riders peak earlier in July 2021 (435,779 rides). This pattern suggests that casual riders are more influenced by seasonal and recreational factors, whereas members maintain relatively consistent, routine-driven usage throughout the year.
 
+# Phase 5 – Share
+
+<img width="1200" height="1200" alt="Riders&#39; Analysis" src="https://github.com/user-attachments/assets/05911bdb-02ae-44e8-b310-db4a1cef538d" />
+
+## Key Insights
+
+- From the analysis, several actionable insights emerge:
+
+•	Behavioral Gap: Casual riders and members use the service for fundamentally different purposes (leisure vs. utility). 
+
+•	Conversion Opportunity: Casual riders already see value but lack a strong incentive to commit. 
+
+•	Timing Matters: Marketing efforts should align with weekend and leisure usage patterns. 
+
+•	High-Intent Segment: Frequent casual riders are the most likely candidates for conversion. 
+
+•	Experience vs. Cost Trade-off: Casual users may perceive memberships as unnecessary for occasional us
+

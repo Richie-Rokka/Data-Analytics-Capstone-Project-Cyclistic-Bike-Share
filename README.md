@@ -26,6 +26,19 @@ This project follows the **Google Data Analytics framework**:
 
 **Ask → Prepare → Process → Analyze → Share → Act**
 
+## 📊 Dataset
+- 12 months of **trip-level ride data**
+- Dataset link - <a href="https://divvy-tripdata.s3.amazonaws.com/index.html">Cyclistic Dataset</a>
+- divvy-tripdata from Motivate International Inc under this <a href="https://www.divvybikes.com/data-license-agreement">License-Agreement</a> 
+- Key features:
+  - Ride unique id
+  - Ride timestamps  
+  - Start & end stations  
+  - Bike types  
+  - User type (casual vs member)  
+- No **personally identifiable information (PII)** included  
+- Enables **aggregate behavioral analysis**
+
 
 
 

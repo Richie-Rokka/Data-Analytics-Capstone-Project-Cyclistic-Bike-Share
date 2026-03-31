@@ -99,15 +99,15 @@ The final dataset made available for the analysis consists of 5,504,784 rows aft
 
 •	Casual riders show a steady increase in activity throughout the day, peaking in the late afternoon around 5 PM, reflecting flexible, leisure-driven usage patterns.
 
-- In contrast, members exhibit distinct peak hours at around 8 AM and 5 PM, aligning with typical commute times to and from work, which highlights more structured, routine usage behavior.
+In contrast, members exhibit distinct peak hours at around 8 AM and 5 PM, aligning with typical commute times to and from work, which highlights more structured, routine usage behavior.
 
 - Daily Ride Trends
   
 <img width="1500" height="1200" alt="Daily Stats" src="https://github.com/user-attachments/assets/2df0f24a-97d3-48cb-9492-78d2f32a63b0" />
 
-- Members demonstrate consistent and frequent usage patterns, typically riding on a daily or weekly basis, with peak activity during weekday mornings and evenings—clear indicators of commuting behavior. Notably, Wednesdays record the highest ride volume (469,431 rides), while average ride duration peaks on Sundays (15.53 minutes), suggesting occasional leisure use alongside routine trips.
+Members demonstrate consistent and frequent usage patterns, typically riding on a daily or weekly basis, with peak activity during weekday mornings and evenings—clear indicators of commuting behavior. Notably, Wednesdays record the highest ride volume (469,431 rides), while average ride duration peaks on Sundays (15.53 minutes), suggesting occasional leisure use alongside routine trips.
 
-- In contrast, casual riders exhibit more irregular and leisure-driven usage, with activity concentrated around weekends and special occasions. Saturdays show the highest ride volume (549,630 rides), and average ride duration is longest on Sundays (35.19 minutes), reinforcing the pattern of extended, recreational rides.
+In contrast, casual riders exhibit more irregular and leisure-driven usage, with activity concentrated around weekends and special occasions. Saturdays show the highest ride volume (549,630 rides), and average ride duration is longest on Sundays (35.19 minutes), reinforcing the pattern of extended, recreational rides.
   
 - Monthly Ride Trends
   
@@ -115,5 +115,5 @@ The final dataset made available for the analysis consists of 5,504,784 rows aft
 
 •Cyclistic usage exhibits clear seasonal trends across both user groups, with ridership at its lowest in February 2021, where members recorded 38,522 rides and casual riders 9,901 rides, reflecting reduced demand during winter months.
 
-- Activity peaks during the summer, with members reaching their highest usage in September 2021 (385,779 rides), while casual riders peak earlier in July 2021 (435,779 rides). This pattern suggests that casual riders are more influenced by seasonal and recreational factors, whereas members maintain relatively consistent, routine-driven usage throughout the year.
+Activity peaks during the summer, with members reaching their highest usage in September 2021 (385,779 rides), while casual riders peak earlier in July 2021 (435,779 rides). This pattern suggests that casual riders are more influenced by seasonal and recreational factors, whereas members maintain relatively consistent, routine-driven usage throughout the year.
 

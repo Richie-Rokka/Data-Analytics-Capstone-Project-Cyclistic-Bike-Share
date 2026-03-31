@@ -80,3 +80,11 @@ These new features enabled more meaningful insights into customer behavior and r
 
 The final dataset made available for the analysis consists of 5,504,784 rows after cleaning, validation, and 90,291 rows were removed during the cleaning process.
 
+
+# Phase 4 – Analyze
+
+## Data Analysis
+
+# - Total Rides & Average Ride Length in 2021
+
+https://github.com/Richie-Rokka/Data-Analytics-Capstone-Project-Cyclistic-Bike-Share/blob/main/Total%20Ride%20Stats.png

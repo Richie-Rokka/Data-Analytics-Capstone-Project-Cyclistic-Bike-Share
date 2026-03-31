@@ -16,8 +16,6 @@ Since its launch in 2016, Cyclistic has scaled rapidly, building a robust infras
 •	Identified behavioral differences
 
 
-# Phase 1 – Ask
-
 ## Business Task 
 This project focuses on analyzing user behavior and ride patterns to improve annual membership by developing digital targeted marketing strategies using data-driven insights.
 
@@ -28,7 +26,7 @@ Marketing Analytics Team - Collects and analyzes ride data to generate actionabl
 
 Executive Team - Approves data-driven strategic initiatives that drive long-term growth, customer retention, and revenue sustainability.
 
-# Phase 2 – Prepare
+## Dataset
 
 <a href="https://divvy-tripdata.s3.amazonaws.com/index.html">Data Source - Cyclistic Dataset</a>
 
@@ -46,7 +44,7 @@ Current - It captures recent 12-month period, making it suitable for identifying
 Cited - The data is publicly available and properly documented, ensuring transparency and credibility for analysis and reporting under the <a href="https://www.divvybikes.com/data-license-agreement">License-Agreement</a>
 
 
-# Phase 3 – Process
+## Process
 
 The 12 CSV files from divvy-trip data (January 2021 to December 2021) were stacked and combined into a single dataset. The DataFrame consists of 5,595,075 rows after the data consolidation.
 
@@ -81,9 +79,7 @@ These new features enabled more meaningful insights into customer behavior and r
 The final dataset made available for the analysis consists of 5,504,784 rows after cleaning, validation, and 90,291 rows were removed during the cleaning process.
 
 
-# Phase 4 – Analyze
-
-## Data Analysis
+## Analysis
 
 - Total Rides & Average Ride Length Patterns in  year 2021
 
@@ -117,13 +113,12 @@ The final dataset made available for the analysis consists of 5,504,784 rows aft
 
 • Activity peaks during the summer, with members reaching their highest usage in September 2021 (385,779 rides), while casual riders peak earlier in July 2021 (435,779 rides). This pattern suggests that casual riders are more influenced by seasonal and recreational factors, whereas members maintain relatively consistent, routine-driven usage throughout the year.
 
-# Phase 5 – Share
+## Insights
 
 <img width="1200" height="1200" alt="Riders&#39; Analysis" src="https://github.com/user-attachments/assets/05911bdb-02ae-44e8-b310-db4a1cef538d" />
 
-## Key Insights
 
-From the analysis, several actionable insights emerge:
+From the analysis and the Tableau dashboard, several actionable insights emerge:
 
 •	Behavioral Gap: Casual riders and members use the service for fundamentally different purposes (leisure vs. utility). 
 
@@ -135,8 +130,6 @@ From the analysis, several actionable insights emerge:
 
 •	Experience vs. Cost Trade-off: Casual users may perceive memberships as unnecessary for occasional us.
 
-
-# Phase 6 - Act
 
 ## Recommendations 
 

@@ -69,6 +69,9 @@ This project follows the **Google Data Analytics framework**:
 - Members → **weekday, routine usage**  
 - Strong **seasonal trends** (summer peaks, winter lows)
 
+
+---
+
 - Total Rides & Average Ride Length Patterns in  year 2021
 
 <img width="1500" height="1200" alt="Total Ride Stats" src="https://github.com/user-attachments/assets/c0453833-8c1b-4684-894e-13871f36fb52" />
@@ -89,10 +92,27 @@ Casual riders take significantly longer rides, indicating **leisure and explorat
 - Casual riders show a **steady increase throughout the day**, peaking in the afternoon  
 
 
+---
 - Hourly Ride Trends
 
 <img width="708" height="319" alt="Hourly Stats" src="https://github.com/user-attachments/assets/bb5a014e-d78a-4522-a6c6-9d1e213b90b5" />
 
 ---
 
+
+### 📅 Weekly Patterns
+- Members: consistent weekday usage (highest on Wednesdays)  
+- Casual riders: peak on weekends (highest on Saturdays)  
+
+<img width="1500" height="1200" alt="Daily Stats" src="https://github.com/user-attachments/assets/2df0f24a-97d3-48cb-9492-78d2f32a63b0" />
+
+---
+
+### 🌦️ Seasonal Trends
+- Lowest usage in winter (February)  
+- Peak usage in summer:
+  - Casual riders peak in July  
+  - Members peak in September  
+
+<img width="1500" height="1200" alt="Monthly Stats" src="https://github.com/user-attachments/assets/64c892c1-552f-4173-b919-50b7cb32a3ff" />
 
